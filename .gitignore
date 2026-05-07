@@ -1,0 +1,15 @@
+target/
+*.class
+*.jar
+mods-mvn/
+plugins/
+
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+CLAUDE.md
+.claude/
+.cursor/
+.aider*
